@@ -1,0 +1,13 @@
+#Ignore all binary files
+*.o
+#Ignore the main compiled file
+main
+main.exe
+#Ignore the vscode congiguration files
+.vscode
+*.json
+#ignore program_tests
+program_tests
+#Ignore gcovr files
+*.gcda
+*.gcno
