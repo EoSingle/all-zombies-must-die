@@ -1,7 +1,7 @@
 # All Zombies Must Die
 Um jogo shooter top-down com mortos vivos, rock e muita ação!
 
-[![Vídeo sobre o projeto](https://img001.prntscr.com/file/img001/KtOwsqO_SZKj3TLzH05-hw.png)](https://www.youtube.com/watch?v=82ofh_CPzE8)
+[![Vídeo sobre o projeto](https://img001.prntscr.com/file/img001/Q0nxJDohRGWP3J9kEMbT8w.png)](https://www.youtube.com/watch?v=82ofh_CPzE8)
 
 
 ## Grupo 2 | Integrantes: 
