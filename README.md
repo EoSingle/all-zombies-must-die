@@ -39,7 +39,7 @@ Simple and Fast Multimedia Library (SFML) é uma biblioteca multiplataforma, ori
 ## Instalando o jogo:
 **Primeiro você deve clonar este repositório:**
 ```
-git clone https://github.com/pds2-dcc-ufmg/2022-2-TW-grupo02.git
+git clone https://github.com/EoSingle/all-zombies-must-die.git
 ```
 
 **Selecione seu sistema operacional:**
